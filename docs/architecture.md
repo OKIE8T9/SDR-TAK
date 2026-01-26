@@ -6,7 +6,7 @@ This document describes the physical architecture of the SDR-TAK system.
 - Raspberry Pi Zero 2W
 - FlightAware Pro-Stick ADSB Dongle
 - Geekworm X306 UPS
-- RAK19003 Meshtastic node
+- RAK19003 Mesh node + aux sensors
 - RAK Unify Enclosure IP67 150x100x45mm
 
 - ## Antennas
